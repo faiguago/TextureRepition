@@ -1,4 +1,4 @@
-# Avoiding texture repition
+# Avoiding texture repetition
  
 <img src="/1.png?raw=true" width="800"/>
 
